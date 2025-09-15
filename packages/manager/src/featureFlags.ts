@@ -142,6 +142,7 @@ export interface Flags {
   apiMaintenance: APIMaintenance;
   apl: boolean;
   aplGeneralAvailability: boolean;
+  aplLkeE: boolean;
   blockStorageEncryption: boolean;
   blockStorageVolumeLimit: boolean;
   cloudManagerDesignUpdatesBanner: DesignUpdatesBannerFlag;
